@@ -1,0 +1,20 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    color: aliceblue;
+    background-color: rgb(119, 0, 215)
+}
+h1{
+  
+    font-size: 40px;
+    font-weight: lighter;
+    text-transform: uppercase;
+  
+}
+  
+p{
+      margin: 20px 0 ;
+      font-weight: 500;
+      line-height: 25px;
+}

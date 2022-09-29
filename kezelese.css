@@ -1,0 +1,19 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: rgb(255, 183, 0)
+}
+h1{
+  
+    font-size: 40px;
+    font-weight: lighter;
+    text-transform: uppercase;
+  
+}
+  
+p{
+      margin: 20px 0 ;
+      font-weight: 500;
+      line-height: 25px;
+}
